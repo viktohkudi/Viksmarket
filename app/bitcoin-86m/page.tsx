@@ -17,19 +17,6 @@ export default function BitcoinPage() {
           style={{ width: '100%', borderRadius: '12px', margin: '20px 0' }}
         />
         
-        <p>Bitcoin has just crossed ₦86,648,002 on Viksmarket today...</p>
-        
-      </div>
-    </main>
-  )
-}
-        
-        <img 
-          src="https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800" 
-          alt="Bitcoin" 
-          style={{ width: '100%', borderRadius: '12px', margin: '20px 0' }}
-        />
-        
         <p>Bitcoin has just crossed ₦86,648,002 on Viksmarket today. This is the highest naira price in 2026...</p>
         
         <h3 style={{ marginTop: '30px' }}>Why BTC is Pumping</h3>
