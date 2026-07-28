@@ -2,7 +2,11 @@ export default function BitcoinPage() {
   return (
     <main style={{ background: '#0b0e14', color: '#e5e7eb', minHeight: '100vh', padding: '40px 20px' }}>
       <div style={{ maxWidth: '800px', margin: 'auto' }}>
-        <a href="/" style={{ color: '#facc15', textDecoration: 'none', fontWeight: '600' }}>← Back to Home</a>
+        <a href="/bitcoin-86m" style={{ textDecoration: 'none', color: 'inherit' }}>
+  <div className="news-card">
+    <h4>Bitcoin Crosses New High: What It Means for Naira Holders</h4>
+  </div>
+</a>
         
         <h1 style={{ fontSize: '36px', fontWeight: '900', marginTop: '20px', lineHeight: '1.2' }}>
           Bitcoin Hits ₦86,648,002: Should You Sell Now?
